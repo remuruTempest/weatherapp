@@ -151,3 +151,9 @@ return (
 2. If the city name entered is incorrect, the app may display an error (though this code doesn’t explicitly handle API errors for wrong city names, it just logs them).
 
 Let me know if you need further clarification or additional examples!
+
+
+"Other projects relating to weather app"
+
+https://www.youtube.com/watch?v=74IOjtVvExY
+
