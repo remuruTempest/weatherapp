@@ -157,3 +157,98 @@ Let me know if you need further clarification or additional examples!
 
 https://www.youtube.com/watch?v=74IOjtVvExY
 
+
+"Other Weather app API online"
+
+If you're a beginner in JavaScript and want to get started with weather apps, using APIs is a great way to practice. Here are 10 beginner-friendly weather APIs that you can integrate into a JavaScript-based weather app:
+
+### 1. **OpenWeatherMap API**
+   - **Description**: A very popular and beginner-friendly API. It offers free access to current weather, forecasts, and historical data.
+   - **Website**: [OpenWeatherMap](https://openweathermap.org/api)
+   - **Features**: 
+     - Current weather data
+     - Forecast data (5-day forecast, 16-day forecast)
+     - Hourly forecast
+     - Global coverage
+
+### 2. **WeatherAPI**
+   - **Description**: Offers a free tier with up to 1,000 free calls per day. It's easy to integrate with basic and advanced features.
+   - **Website**: [WeatherAPI](https://www.weatherapi.com/)
+   - **Features**: 
+     - Current weather
+     - 7-day forecast
+     - Historical weather data
+     - Location-based weather searches
+
+### 3. **Weatherbit API**
+   - **Description**: A simple, clean API that provides free access to basic weather data.
+   - **Website**: [Weatherbit](https://weatherbit.io/api)
+   - **Features**: 
+     - Current weather
+     - Forecasts (up to 16 days)
+     - Air quality data
+
+### 4. **AccuWeather API**
+   - **Description**: Provides detailed and accurate weather information, but with limited free access.
+   - **Website**: [AccuWeather API](https://developer.accuweather.com/)
+   - **Features**:
+     - Current weather
+     - Hourly forecasts
+     - Severe weather alerts
+
+### 5. **Climacell (Tomorrow.io) API**
+   - **Description**: Now rebranded as Tomorrow.io, it focuses on high-precision weather data, even for specific needs (e.g., business decisions).
+   - **Website**: [Tomorrow.io API](https://www.tomorrow.io/weather-api/)
+   - **Features**:
+     - Hyper-local weather forecasts
+     - Historical weather data
+     - Air quality monitoring
+
+### 6. **Visual Crossing Weather API**
+   - **Description**: A great free option for weather data with historical data options.
+   - **Website**: [Visual Crossing](https://www.visualcrossing.com/weather-api)
+   - **Features**:
+     - Hourly forecasts
+     - Historical weather data
+     - Global coverage
+
+### 7. **MetaWeather API**
+   - **Description**: A simple and free weather API that does not require an API key, which makes it easy for beginners.
+   - **Website**: [MetaWeather](https://www.metaweather.com/api/)
+   - **Features**:
+     - Current weather
+     - 5-day forecasts
+     - No API key needed
+
+### 8. **Open-Meteo API**
+   - **Description**: A free, open-source weather API focused on providing weather data without the need for an API key.
+   - **Website**: [Open-Meteo](https://open-meteo.com/)
+   - **Features**:
+     - Hourly forecasts
+     - Temperature, wind, and precipitation data
+     - Global coverage
+
+### 9. **Dark Sky API (Now part of Apple Weather)**
+   - **Description**: Dark Sky is now owned by Apple and the API is being deprecated, but it was widely used for its simple and accurate data.
+   - **Website**: [Dark Sky API](https://darksky.net/dev)
+   - **Features**:
+     - Hourly and daily forecasts
+     - Severe weather alerts
+     - Precipitation predictions
+
+### 10. **Storm Glass API**
+   - **Description**: Primarily focused on marine weather data, but offers general weather information as well.
+   - **Website**: [Storm Glass API](https://stormglass.io/)
+   - **Features**:
+     - Weather forecasts
+     - Marine-focused data
+     - Air and water quality data
+
+---
+
+### How to Get Started:
+1. **Sign Up for an API Key**: Most of these APIs require you to sign up for an API key (which is free in most cases).
+2. **Explore Documentation**: Check out the API documentation to understand how to make requests and what data you’ll receive.
+3. **Use JavaScript Fetch/Axios**: Once you have an API key, you can use `fetch()` or `Axios` to make HTTP requests in JavaScript and display the data on your website or app.
+
+Let me know if you'd like a specific code example to help you get started!
